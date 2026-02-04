@@ -1,9 +1,12 @@
 streamlit
-sqlalchemy
 pandas
 numpy
 matplotlib
 seaborn
 cryptography
 mysql-connector-python
+sqlalchemy
+pymysql
+
+
 
